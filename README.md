@@ -6,4 +6,5 @@
 - Elias Frohling, discord: timeportal2000, github: timeportal2000
 - Emmanuel Dixon, Discord: Unh0lyMa3l5tr0m, github: Maelstrom92
 - Kennedy Hood, discord: yellow777777, github: Yellow777128
+- Eric Mabala, discord: Nindo, github: NindoStorm
 - Chris Chapman, discord: _triage_, github: reactivepixel
